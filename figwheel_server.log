@@ -1,0 +1,357 @@
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.2 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.102 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.101 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+[31mCompiling "resources/public/js/yacht.js" failed.
+[0mclojure.lang.ExceptionInfo: Only :as alias and :refer (names) options supported in :require; offending spec: (quote []) at line 1 cljs_src/yacht/core.cljs
+ at clojure.core$ex_info.invoke (core.clj:4593)
+    cljs.analyzer$error.invoke (analyzer.cljc:568)
+    cljs.analyzer$error.invoke (analyzer.cljc:566)
+    cljs.analyzer$basic_validate_ns_spec.invoke (analyzer.cljc:1698)
+    cljs.analyzer$parse_require_spec.invoke (analyzer.cljc:1739)
+    clojure.lang.AFn.applyToHelper (AFn.java:171)
+    clojure.lang.AFn.applyTo (AFn.java:144)
+    clojure.core$apply.invoke (core.clj:636)
+    clojure.core$partial$fn__4533.doInvoke (core.clj:2512)
+    clojure.lang.RestFn.invoke (RestFn.java:408)
+    clojure.core$map$fn__4553.invoke (core.clj:2622)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.Cons.next (Cons.java:39)
+    clojure.lang.RT.boundedLength (RT.java:1735)
+    clojure.lang.RestFn.applyTo (RestFn.java:130)
+    clojure.core$apply.invoke (core.clj:634)
+    cljs.analyzer$eval2948$fn__2950$fn__2955.invoke (analyzer.cljc:1926)
+    clojure.core.protocols/fn (protocols.clj:167)
+    clojure.core.protocols$fn__6478$G__6473__6487.invoke (protocols.clj:19)
+    clojure.core.protocols$seq_reduce.invoke (protocols.clj:31)
+    clojure.core.protocols/fn (protocols.clj:101)
+    clojure.core.protocols$fn__6452$G__6447__6465.invoke (protocols.clj:13)
+    clojure.core$reduce.invoke (core.clj:6519)
+    cljs.analyzer$eval2948$fn__2950.invoke (analyzer.cljc:1909)
+    clojure.lang.MultiFn.invoke (MultiFn.java:251)
+    cljs.analyzer$analyze_seq_STAR_.invoke (analyzer.cljc:2390)
+    cljs.analyzer$analyze_seq_STAR__wrap.invoke (analyzer.cljc:2395)
+    cljs.analyzer$analyze_seq.invoke (analyzer.cljc:2416)
+    cljs.analyzer$analyze_form.invoke (analyzer.cljc:2525)
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.033 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 1.866 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.185 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+[31mCompiling "resources/public/js/yacht.js" failed.
+[0mERROR: Invalid token: r/ on file /Users/sridatta/workspace/yacht/cljs_src/yacht/core.cljs, line 8, column 6
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.102 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+WARNING: Wrong number of args (0) passed to reagent.core/render at line 8 cljs_src/yacht/core.cljs
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.133 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+WARNING: Wrong number of args (1) passed to reagent.core/render at line 8 cljs_src/yacht/core.cljs
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.117 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+WARNING: Wrong number of args (1) passed to reagent.core/render at line 8 cljs_src/yacht/core.cljs
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.117 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.102 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.119 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.105 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.11 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.116 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+WARNING: Use of undeclared Var yacht.core/on-doc-ready at line 10 cljs_src/yacht/core.cljs
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.182 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.118 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.223 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.161 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+[31mCompiling "resources/public/js/yacht.js" failed.
+[0mANALYSIS ERROR: Too many arguments to def at line 4 cljs_src/yacht/core.cljs on file cljs_src/yacht/core.cljs, line 4, column 1
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.12 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+[31mCompiling "resources/public/js/yacht.js" failed.
+[0mANALYSIS ERROR: Too many arguments to def at line 4 cljs_src/yacht/core.cljs on file cljs_src/yacht/core.cljs, line 4, column 1
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.077 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+[31mCompiling "resources/public/js/yacht.js" failed.
+[0mANALYSIS ERROR: Too many arguments to def at line 4 cljs_src/yacht/core.cljs on file cljs_src/yacht/core.cljs, line 4, column 1
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.124 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.2 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.197 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.306 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+[31mCompiling "resources/public/js/yacht.js" failed.
+[0mANALYSIS ERROR: Wrong number of args (2) passed to: core/defonce at line 6 /Users/sridatta/workspace/yacht/cljs_src/yacht/core.cljs on file /Users/sridatta/workspace/yacht/cljs_src/yacht/core.cljs, line 6, column 1
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.106 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.213 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.189 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.14 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.129 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+WARNING: Use of undeclared Var yacht.core/alert at line 12 /Users/sridatta/workspace/yacht/cljs_src/yacht/core.cljs
+WARNING: Use of undeclared Var yacht.core/$1 at line 12 /Users/sridatta/workspace/yacht/cljs_src/yacht/core.cljs
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.161 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+WARNING: Use of undeclared Var yacht.core/$1 at line 12 /Users/sridatta/workspace/yacht/cljs_src/yacht/core.cljs
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.161 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.128 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.177 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.142 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.127 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.172 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.151 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.14 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+[31mCompiling "resources/public/js/yacht.js" failed.
+[0mERROR: EOF while reading, starting at line 11 and column 1 on file /Users/sridatta/workspace/yacht/cljs_src/yacht/core.cljs, line 22, column 1
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.102 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.224 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.179 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.251 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.212 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.154 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.213 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.201 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+WARNING: Use of undeclared Var yacht.core/render-app at line 23 /Users/sridatta/workspace/yacht/cljs_src/yacht/core.cljs
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.186 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+WARNING: Use of undeclared Var yacht.core/app at line 22 /Users/sridatta/workspace/yacht/cljs_src/yacht/core.cljs
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.136 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.117 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.112 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.118 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.251 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.202 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.135 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.221 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.206 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.17 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.174 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.123 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.136 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.173 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.146 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.146 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.164 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.113 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.184 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.122 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+WARNING: Use of undeclared Var yacht.core/n at line 35 /Users/sridatta/workspace/yacht/cljs_src/yacht/core.cljs
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.137 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+WARNING: Use of undeclared Var yacht.core/blank? at line 35 /Users/sridatta/workspace/yacht/cljs_src/yacht/core.cljs
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.18 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.116 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.122 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.183 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.118 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.115 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.247 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.177 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.179 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.127 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.133 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.15 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.119 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.145 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.124 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.138 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.126 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.139 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.126 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.195 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.18 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.169 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.126 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.139 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.146 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.12 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.172 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.118 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.165 seconds.[0m
+[0mCompiling "resources/public/js/yacht.js" from ["cljs_src"]...
+notifying browser that file changed:  out/yacht/core.js
+[32mSuccessfully compiled "resources/public/js/yacht.js" in 0.17 seconds.[0m
